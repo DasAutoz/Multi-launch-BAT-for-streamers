@@ -1,0 +1,1 @@
+START ./"VTube Studio.exe" -nosteam
